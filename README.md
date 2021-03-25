@@ -15,12 +15,12 @@ I wrote this script to simplify the updating of the Habanero Bee site that I use
 Run this script at the root of the Habanero Bee project you want to update
 
 ```sh
-# TODO
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/shinshin86/habanero-bee-shell-script-of-update-to-latest/main/update.sh)"
 ```
 
 ## LICENCE
 
-MIT
+[MIT](https://github.com/shinshin86/habanero-bee-shell-script-of-update-to-latest/blob/main/LICENSE)
 
 ## AUTHOR
 
