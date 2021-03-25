@@ -1,3 +1,5 @@
+![Habanero Bee shell script of update to latest logo](https://user-images.githubusercontent.com/8216064/112555896-69c1ea80-8e0c-11eb-92ab-609007fafee0.png)
+
 # Habanero Bee shell script of update to latest
 
 Shell script to update to the latest of Habanero Bee.
