@@ -14,10 +14,21 @@ I wrote this script to simplify the updating of the Habanero Bee site that I use
 
 ## USAGE
 
+### Stable version (Recommend)
+
 Run this script at the root of the Habanero Bee project you want to update
 
 ```sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/shinshin86/habanero-bee-shell-script-of-update-to-latest/main/update.sh)"
+```
+
+
+### Canary version
+
+Note that the Canary version may behave in unexpected ways.
+
+```sh
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/shinshin86/habanero-bee-shell-script-of-update-to-latest/add-update-canary-sh/update-canary.sh)"
 ```
 
 ## LICENCE
