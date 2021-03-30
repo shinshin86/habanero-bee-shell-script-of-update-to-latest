@@ -28,7 +28,7 @@ Run this script at the root of the Habanero Bee project you want to update
 Note that the Canary version may behave in unexpected ways.
 
 ```sh
-# TODO
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/shinshin86/habanero-bee-shell-script-of-update-to-latest/add-update-canary-sh/update-canary.sh)"
 ```
 
 ## LICENCE
